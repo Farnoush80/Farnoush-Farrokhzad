@@ -1,1 +1,3 @@
-# Farnoush-Farrokhzad
+Greetings, I am Farnoush. It is my privilege to share my journey in the realm of data with you. Having navigated cross-functional teams in academic and governmental settings, I discovered my passion within the expansive world of data. I have delved deeply into this captivating field, broadening my understanding by mastering Cloud services, Databricks, and big data.
+In my previous projects, I utilized Python, SQL, and machine learning as indispensable tools. My commitment to continuous learning drives me to explore new horizons and stay abreast of emerging technologies.
+I am eager to share my progress with you and sincerely appreciate your interest in my professional journey.
