@@ -3,8 +3,11 @@ In my previous projects, I utilized Python, SQL, and machine learning as indispe
 I am eager to share my progress with you and sincerely appreciate your interest in my professional journey.
 
 🌱 I am currently learning Large Language Models(LLM)
+
 👯 I am looking to colaborate with ethic in healthcare  projects
+
 📫How to reach me : You can shoot me an email at
 Farnoush.Farrokhzaad@gmail.com
+
 ⚡ Fun Fact: In addition to my fervor for data, I hold a keen interest in neuroscience and philosophy. My fascination lies in understanding the intricate mechanisms that underlie our decision-making processes. This profound knowledge not only enriches my analytical capabilities but also enables me to explore data from diverse perspectives and interpret it through a thoughtful perspective.
 In alignment with Nietzsche's aphorism, "There is no fact, only interpretation," I embrace the notion that our understanding of data is inherently shaped by our interpretative frameworks.
